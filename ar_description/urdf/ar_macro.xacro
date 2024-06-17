@@ -148,7 +148,7 @@
     </joint>
     <link name="link_5">
       <inertial>
-        <origin rpy="0 0 0" xyz="0 0 -0.0275/>
+        <origin rpy="0 0 0" xyz="0 0 -0.0275"/>
         <mass value="0.11562"/>
         <inertia ixx="5.5035E-05" ixy="-1.019E-08" ixz="-2.6243E-06" iyy="8.2921E-05" iyz="1.4437E-08" izz="5.2518E-05"/>
       </inertial>
