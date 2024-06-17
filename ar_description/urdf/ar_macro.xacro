@@ -169,7 +169,7 @@
       </collision>
     </link>
     <joint name="joint_5" type="revolute">
-      <origin rpy="${pi} 0 -1.5708" xyz="0 0 -0.22263"/>
+      <origin rpy="${pi} 0 -1.5708" xyz=""2.9287E-10 -1.6472E-09 0.0091432"/>
       <parent link="link_4"/>
       <child link="link_5"/>
       <axis xyz="1 0 0"/>
