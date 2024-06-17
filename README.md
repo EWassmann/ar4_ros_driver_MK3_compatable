@@ -4,9 +4,7 @@ ROS 2 driver of the AR4 robot arm from [Annin Robotics](https://www.anninrobotic
 Tested with ROS 2 Iron on Ubuntu 22.04.
 
 **Supports:**
-
-- AR4 (Original version)
-- AR4 MK2
+- AR4 MK3
 - AR4 servo gripper
 
 **Features:**
