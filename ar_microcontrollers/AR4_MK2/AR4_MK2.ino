@@ -32,8 +32,8 @@ int ENC_MAX_AT_ANGLE_MIN[] = {1, 0, 1, 0, 0, 1};
 const float ENC_MULT[] = {10, 10, 10, 10, 5, 10};
 
 // define axis limits in degrees, for calibration
-int JOINT_LIMIT_MIN[] = {-170, -42, -89, -165, -105, -155};
-int JOINT_LIMIT_MAX[] = {170, 90, 52, 165, 105, 155};
+int JOINT_LIMIT_MIN[] = {-170, -42, -89, -180, -105, -180};
+int JOINT_LIMIT_MAX[] = {170, 90, 52, 180, 105, 180};
 
 ///////////////////////////////////////////////////////////////////////////////
 // ROS Driver Params
